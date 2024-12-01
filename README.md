@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradeepbaghel02" alt="pradeepbaghel02" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/baghelpradeep02" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/baghelpradeep02?logo=twitter&style=for-the-badge" alt="https://x.com/baghelpradeep02" /></a> </p>
+<p align="left"> <a href="https://twitter.com/baghelpradeep02" target="blank"><img src="https://img.shields.io/twitter/follow/baghelpradeep02?logo=twitter&style=for-the-badge" alt="https://x.com/baghelpradeep02" /></a> </p>
 
 - 🌱 I’m currently learning **Python, JavaScript,**
 
